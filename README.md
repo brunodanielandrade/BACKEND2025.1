@@ -1,5 +1,5 @@
 # BACKEND2025.1
-Projeto de BackEnd - Integrantes: Bruno Daniel de Andrade Pereira
+Projeto de BackEnd - Integrantes: Bruno Daniel, Rafael dos Santos Sousa & Hanielly Silva.
 # 🎬 IespFlix
 
 **IespFlix** é um sistema backend desenvolvido com Java e Spring Boot que simula as principais funcionalidades de uma plataforma de streaming como a Netflix. Usuários podem cadastrar filmes, avaliar, favoritar e explorar o catálogo por gênero.
